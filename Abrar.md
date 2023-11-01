@@ -1,9 +1,9 @@
-Muhammad Abrar Rahim Afghan
+# Muhammad Abrar Rahim Afghan
 +92 3345130829 | abrarkhanafghan@gmail.com | Rajanpur, Pakistan
-
-QA Analyst at Motive
+-----------------------------------------------------------------
+## QA Analyst at Motive
 Dedicated and results-driven Quality Assurance Analyst with a proven track record at MOTIVE. I specialize in ensuring the delivery of high-quality software products by leveraging a strong background in testing methodologies, automation, and meticulous attention to detail. With a passion for uncovering and resolving issues, I thrive in dynamic environments and contribute to the success of projects by maintaining the highest standards of software quality.
-
+-------------------------------------------------------------------------------------
 EDUCATION
 MS Data Science | PUCIT, Lahore
 2022 - Continue
