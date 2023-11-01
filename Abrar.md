@@ -1,56 +1,66 @@
 # Muhammad Abrar Rahim Afghan
 +92 3345130829 | abrarkhanafghan@gmail.com | Rajanpur, Pakistan
------------------------------------------------------------------
+
+------------------------------------------------------------
 ## QA Analyst at Motive
 Dedicated and results-driven Quality Assurance Analyst with a proven track record at MOTIVE. I specialize in ensuring the delivery of high-quality software products by leveraging a strong background in testing methodologies, automation, and meticulous attention to detail. With a passion for uncovering and resolving issues, I thrive in dynamic environments and contribute to the success of projects by maintaining the highest standards of software quality.
--------------------------------------------------------------------------------------
-EDUCATION
-MS Data Science | PUCIT, Lahore
-2022 - Continue
-BS Information Technology | Islamia University, Bahawalpur
-Oct 2014 - August 2018
-WORK EXPERIENCE
-QA Analyst | MOTIVE Inc.
-June 2021 - Continue\
 
-Collaborated with cross-functional teams, including developers and product managers.\
-Develop data models and ETL processes to ensure data accuracy, consistency, and integrity.\
-Developed and executed test plans, test cases, and test scripts to verify software functionality and performance..\
-Identified, reported, and tracked defects using defect tracking tools, e.g., Jira.\
-Collaborate with cross-functional teams, including data engineers, analysts, and business stakeholders.
+-------------------------------------------------------------------------
+## EDUCATION
+### MS Data Science \| PUCIT, Lahore
+ - 2022 - Continue
+### BS Information Technology \| Islamia University, Bahawalpur
+ - Oct 2014 - August 2018
 
-Completed PwC's Virtual Internship: Transformed data into Insights and Actions with Dynamic BI Dashboards.\
-Created visualizations for various business scenarios.\
-Call Centre Trends: Visualized customer and agent behavior to identify trends.\
-Customer Retention: Analyzed customer demographics and insights to improve retention rates.\
-Diversity & Inclusion: Evaluated gender balance in the executive suite and provided recommendations to improve diversity and inclusion efforts.
-JPMorgan Chase & Co. Excel Skills | Forage
-March 23, 2023\
+ - ----------------------------------------
+## WORK EXPERIENCE
+### QA Analyst \| MOTIVE Inc.
+January 2022 - Continue\
 
-Completed a comprehensive, self-paced virtual program with 5 modules focused on Excel skills development, including: Excel Keyboard Shortcuts, Conditional Formatting, Visual Basic for Applications (VBA) Macros, Data Visualization in Excel, Data-Driven Storytelling.\
-Developed proficiency in Excel and its key functionalities, including data analysis, visualization, and communication.\
-Acquired skills to streamline workflows, improve data accuracy, and enhance data-driven decision-making.
-SKILLS
-Python | NumPy | Pandas | Matplotlib | Scipy | SQL | Dax | Data Analysis | Data Visualization and Storytelling | Statistical Analysis | EDA | Microsoft Power BI | QuickSights | Excel
+- Collaborated with cross-functional teams, including developers and product managers.\
+- Develop data models and ETL processes to ensure data accuracy, consistency, and integrity.\
+- Developed and executed test plans, test cases, and test scripts to verify software functionality and performance..\
+- Identified, reported, and tracked defects using defect tracking tools, e.g., Jira.\
+- Collaborate with cross-functional teams, including data engineers, analysts, and business stakeholders.
+  
+### Data Analyst \| MOTIVE Inc.
+June 2021 - January 2022\
+- Conducted in-depth data analysis to identify customer behavior patterns, resulting in a 15% increase in customer retention rates..\
+- Created comprehensive data visualizations and dashboards using Tableau, facilitating data-driven decision-making for senior management and improving overall business performance.\
+- Developed and maintained data pipelines, ensuring efficient data extraction, transformation, and loading (ETL) processes for various internal databases and data warehouses.\
+ - dentified opportunities for process improvement by performing root cause analysis on data inconsistencies and implementing data quality measures, resulting in a 20% reduction in data errors.\
+- Provided regular data-driven reports and presentations to key stakeholders, highlighting key performance indicators and actionable insights for strategic decision-making.
+### Computer Science Instructor \| Quaid-e-Azam Sceince College Rajanpur
+May 04, 2019 - Feb 2021\
 
-CERTIFICATES/COURSES
-Google Data Analytics | Coursera
-Introducing Dax | SQL BI
-SQL | HackerRank
-Python (Basic) | HackerRank
-SEO | DigiSkills
-E-Commerce Management | DigiSkills
-PROJECTS
-A Statistical Analysis of Unemployment in Medical Field
-Manually collected and cleaned data using various techniques to ensure data accuracy and completeness.
-Applied inferential and descriptive statistics techniques to analyze the data and draw insights.
-Formulated hypotheses and conducted hypothesis tests to validate the hypotheses and draw statistically significant conclusions.
-Presented the findings and recommendations based on the analysis using various visualizations, such as charts and graphs.
-Happy Hired! A Flutter Web Application to Streamline the Hiring Process
-Developed Happy Hired!, a robust Flutter web application using Flutter framework, VisualStudio Code (VSCode), and Firebase.
-Simplified the hiring process by efficiently identifying and acquiring top talent for organizations.
-Empowered job seekers with the ability to focus on and enhance their relevant skills, bridging the gap between their current skills and market demands.
-Leveraged Firebase for seamless data management, authentication, and real-time communication, ensuring a smooth and responsive user experience throughout the hiring journey.
-Languages
-English - Proficient
-Urdu - Native
+- Conducted hands-on workshops and practical sessions on programming languages, algorithms, and data structures, fostering a practical understanding of complex computer science concepts among students.\
+- Created and implemented innovative teaching methodologies, including interactive presentations and group activities, to promote a deeper understanding of computer science principles and encourage student participation in class.\
+- Provided guidance and support to students interested in pursuing computer science-related careers, offering career counseling and mentorship for higher education and professional development opportunities.
+
+------------------------------------------------------------
+## SKILLS
+Python \| NumPy \| Pandas \| Matplotlib \| Scipy \| SQL \| Dax \| Data Analysis \| Data Visualization and Storytelling \| Statistical Analysis \| EDA \| Microsoft Power BI \| QuickSights \| Excel
+
+--------------------------------------------------------
+## CERTIFICATES/COURSES
+- Google Data Analytics | Coursera
+- SQL | HackerRank
+- Python (Basic) | HackerRank
+- SEO | DigiSkills
+- E-Commerce Management | DigiSkills
+## PROJECTS
+### A Statistical Analysis on Social media Anxiety and depression 
+- Explored the relationship between online engagement, such as excessive screen time and passive scrolling, and the manifestation of anxiety and depressive symptoms among individuals of various age groups.
+- Examined the role of social media content, including cyberbullying, negative self-comparisons, and exposure to triggering content, in contributing to heightened levels of anxiety and depression in users.
+- Conducted a quantitative survey and data analysis to identify key predictors and factors influencing the onset and severity of social media-related anxiety and depression, emphasizing the need for tailored intervention strategies.
+- Presented the findings and recommendations based on the analysis using various visualizations, such as charts and graphs.
+### Faisal Movers Bus reservation online System
+- Developed Faisal Movers Bus reservation online System, a robust Flutter web application using CSS, VisualStudio Code (VSCode), and Java Script.
+- Integrated a comprehensive user management system, allowing customers to create personalized profiles, manage bookings, and access their travel history and preferences for a convenient and personalized booking experience.
+- Integrated a feedback and review system, allowing passengers to provide their input and rate their travel experiences, facilitating continuous improvement and fostering customer engagement and loyalty.
+- Designed and developed an intuitive and user-friendly web-based bus reservation platform for Faisal Movers, offering a streamlined and efficient booking experience for passengers.
+## Languages
+-  English - Proficient
+-  Urdu - Native
+-  Punjabi - Proficient
+-  Saraiki - Proficient
